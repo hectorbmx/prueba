@@ -18,6 +18,5 @@
          
           
     
-      <?php  include ("template/footer.php"); ?>
-
+      <?php  include ("template/footer.php"); ?>aaaa
       
